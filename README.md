@@ -131,6 +131,7 @@ python src/ensemble.py \
 ```
 
 Once completed, a `final_ensemble_submission.csv` file will be created as the final ensemble result.
+
 ## Contributors
 
 - Seongwoo Lim: model experimentation, preprocessing pipeline, and documentation.
